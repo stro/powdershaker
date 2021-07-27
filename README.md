@@ -39,7 +39,7 @@ There are three 3D-printed parts that provide the housing for components and the
 13. Place the cover on and use two M4x20 bolts and nuts to affix it. Don't apply too much torque.
 14. Use two M4x20 bolts and nuts to affix the base to the mount. Nut holes should be looking downwards when everything is assembled.
 15. Put the assembled PowderShaker on a Dillon powder measure. Keep in mind that the top part is slightly wider than the bottom.
-16. Make sure the powder bar activates the switch on the downstroke.
+16. Make sure the powder bar activates the switch on the upstroke.
 17. Use M4x20 bolt and nut to tighten the PowderShaker to the powder measure.
 18. Connect the USB cable and, using a case, activate the powder drop and check if everything is working correctly.
 
