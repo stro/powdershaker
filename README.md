@@ -9,8 +9,8 @@ There are three 3D-printed parts that provide the housing for components and the
 * Mitsumi R14 mini M20 vibration motor with eccentric wheel ([example](https://www.ebay.com/itm/123180653659))
 * USB-powered delay relay ([example](https://smile.amazon.com/dp/B0832MW9L4/)) 
 * Micro roller switch ([example](https://www.ebay.com/itm/303542468171))
-* 330 uF electrolytic capacitor (other capacity will work too but you'll need to adjust the timer)
-* 5.6k resistor (other values may work too)
+* 220uF - 330uF electrolytic capacitor (other capacity will work too but you'll need to adjust the timer, larger capacity means longer vibration time)
+* 4.7k - 5.6k resistor (other values may work too)
 * 5 M4x20 bolts
 * 5 M4 nuts
 * 2 M2x12 bolts (you can also use M2x16 bolts)
@@ -18,6 +18,8 @@ There are three 3D-printed parts that provide the housing for components and the
 * wires
 
 ## Assembly instructions:
+
+[See all pictures of major steps in this gallery](https://imgur.com/a/fLLn6EH)
 
 1. Print three parts using PLA+ or similar plastic with the following settings:
     * Layer height: 0.2mm
@@ -29,8 +31,8 @@ There are three 3D-printed parts that provide the housing for components and the
 3. Solder the capacitor and resistor in parallel
 4. Solder a wire to the negative electrode of the capacitor and connect it to the motor
 5. Connect the other motor electrode to NO (normally open) connection
-6. Solder the negative electrode of the capacitor to V-
-7. Connect the positive electode of the capacitor to the switch (normally open)
+6. Connect the positive electrode of the capacitor to the switch (normally open)
+7. Solder the negative electrode of the capacitor to V-
 8. Connect TRIG to the switch (common)
 9. Affix the switch using two M2x12 bolts with the roller directed outwards
 10. Place the relay and the motor in their respective slots
@@ -50,6 +52,7 @@ Use several drops before you start loading to make sure the powder drop is more 
 * [This is how it looks like on the press](https://i.imgur.com/fNcFmbQ.jpg)
 * [This is another picture from the side](https://i.imgur.com/8c4y25w.jpg)
 * [This is my lousy soldering job](https://i.imgur.com/DSIlx3z.jpg) that shows how it's assembled inside the box
+* [This is a gallery of pictures of major assembly steps](https://imgur.com/a/fLLn6EH)
 * And finally, [a video of everything in action with powder drop measurings](https://www.youtube.com/watch?v=0ZiXqV_TVxc)
 
 ## License AKA **You cannot sell it**
