@@ -47,6 +47,8 @@ There are three 3D-printed parts that provide the housing for components and the
 
 Use several drops before you start loading to make sure the powder drop is more uniform. If you want to stop using it, simply disconnect the USB cable.
 
+There are two mounts (regular and short). If the regular one places the switch too far away from the bar and doesn't activate it, you may try the short one. 
+
 ## Visuals
 
 * [This is how it looks like on the press](https://i.imgur.com/fNcFmbQ.jpg)
